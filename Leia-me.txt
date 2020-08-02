@@ -1,7 +1,7 @@
 # Observações
-<br />• Convertido e customizado por Mim;
-<br />• Configuração Simples;
-<br />• Interface apenas Possui a função de pagar multas;
+• Convertido e customizado por Mim;
+• Configuração Simples;
+• Interface apenas Possui a função de pagar multas;
 
 # Instalação
 • 1° Coloque a pasta "vrp_PagarMultas" em resources;
